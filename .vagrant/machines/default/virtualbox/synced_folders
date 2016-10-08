@@ -1,0 +1,1 @@
+{"virtualbox":{"/home/vagrant/shopmvp":{"type":null,"mount_options":[],"guestpath":"/home/vagrant/shopmvp","hostpath":"/Users/maxim/work/ShopMVP","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"/Users/maxim/work/ShopMVP","disabled":false,"__vagrantfile":true}}}
